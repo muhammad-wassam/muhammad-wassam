@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:muhammadwassamofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadwassamofficial@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="YOUR_RESUME_LINK_HERE">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
@@ -22,7 +22,7 @@
 - 🦟 Built **DengueX**, a full-stack dengue awareness and monitoring platform combining a CNN/YOLO-based mosquito classifier, a rule-based chatbot, and an analytics dashboard — my Final Year Project.
 - 📊 Comfortable across the data workflow: Python (pandas, Matplotlib) for analysis, Power BI for dashboards, and SQL-backed apps for structured data.
 - 🎯 Currently looking for **Data Analyst / Junior Data Analyst** opportunities where I can keep building on real-world projects.
-- 📫 Reach me at **muhammadwassamofficial@gmail.com** — open to internships, entry-level roles, and freelance data projects.
+- 📫 Reach me at <a href="mailto:muhammadwassamofficial@gmail.com">muhammadwassamofficial@gmail.com</a> — open to internships, entry-level roles, and freelance data projects.
 
 ---
 
