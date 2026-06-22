@@ -22,7 +22,7 @@
 - 🦟 Built **DengueX**, a full-stack dengue awareness and monitoring platform combining a CNN/YOLO-based mosquito classifier, a rule-based chatbot, and an analytics dashboard — my Final Year Project.
 - 📊 Comfortable across the data workflow: Python (pandas, Matplotlib) for analysis, Power BI for dashboards, and SQL-backed apps for structured data.
 - 🎯 Currently looking for **Data Analyst / Junior Data Analyst** opportunities where I can keep building on real-world projects.
-- 📫 Reach me at <a href="mailto:muhammadwassamofficial@gmail.com">muhammadwassamofficial@gmail.com</a> — open to internships, entry-level roles, and freelance data projects.
+- 📫 Reach me at <a href="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">muhammadwassamofficial@gmail.com</a> — open to internships, entry-level roles, and freelance data projects.
 
 ---
 
