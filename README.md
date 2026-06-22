@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Muhammad Wassam Baig 👋</h1>
 <h3 align="center">Data Analyst | Python, BI & Machine Learning Enthusiast</h3>
-
 <p align="center">
   Fresh graduate turning raw data into clear, actionable insights — built a full-stack public health platform as my Final Year Project and now looking for my first role in Data Analytics.
 </p>
-
-## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:muhammadwassamofficial@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=plastic&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)<br>
-📧 muhammadwassamofficial@gmail.com
-
+<p align="center">
+  <a href="mailto:muhammadwassamofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🚀 About Me
