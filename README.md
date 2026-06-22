@@ -1,18 +1,87 @@
-# 💫 About Me:
-- 🎓 I'm fresh Graduate learning Data Analysis.<br>- 📊 My focus is on understanding data, cleaning datasets, and extracting insights.<br>- 🎯 Goals: build a strong foundation in data analysis and work on real-world projects.<br>- 🌍 Current project: DengueX — a web platform focused on dengue awareness and data-driven public insights.<br>
+<h1 align="center">Hi, I'm Muhammad Wassam Baig 👋</h1>
+<h3 align="center">Data Analyst | Python, BI & Machine Learning Enthusiast</h3>
 
+<p align="center">
+  Fresh graduate turning raw data into clear, actionable insights — built a full-stack public health platform as my Final Year Project and now looking for my first role in Data Analytics.
+</p>
 
-## 🌐 Socials:
-email(mailto:muhammadwassamofficial@gmail.com) 
+<p align="center">
+  <a href="mailto:muhammadwassamofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-wassam&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammad-wassam&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-wassam&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Recent graduate with a focus on **Data Analysis** — cleaning datasets, building dashboards, and extracting insights that support decisions.
+- 🦟 Built **DengueX**, a full-stack dengue awareness and monitoring platform combining a CNN/YOLO-based mosquito classifier, a rule-based chatbot, and an analytics dashboard — my Final Year Project.
+- 📊 Comfortable across the data workflow: Python (pandas, Matplotlib) for analysis, Power BI for dashboards, and SQL-backed apps for structured data.
+- 🎯 Currently looking for **Data Analyst / Junior Data Analyst** opportunities where I can keep building on real-world projects.
+- 📫 Reach me at **muhammadwassamofficial@gmail.com** — open to internships, entry-level roles, and freelance data projects.
+
+---
+
+### 🧩 Featured Project
+
+#### 🦟 [DengueX – Dengue Monitoring Platform](https://github.com/muhammad-wassam/DengueX-Monitoring-Platform)
+A full-stack web platform for dengue awareness and public health insight, built as my Final Year Project.
+- **Mosquito Detection** — CNN/YOLO-based computer vision module classifying Aedes vs. non-Aedes mosquitoes
+- **Awareness Chatbot** — rule-based NLP chatbot for reliable, scoped dengue Q&A
+- **Analytics Dashboard** — province- and city-level dengue case visualization from public datasets
+- **Admin Panel** — dataset and content management
+- **Stack:** Python (Django, FastAPI), HTML/CSS/JS, SQLite, CNN/EfficientNet/YOLO/MobileNet
+- 📄 Full write-up, architecture, and GUI screenshots are in the [project documentation](https://github.com/muhammad-wassam/DengueX-Monitoring-Platform/tree/main/Documentation)
+
+---
+
+### 🛠️ Other Projects
+
+| Project | Description |
+|---|---|
+| 📊 [Sales Report Analysis](https://github.com/muhammad-wassam/Sales_Report_Analysis) | Excel-based analysis of retail sales data using pivot tables and charts to surface sales trends, top products, and customer buying patterns |
+| 🗂️ [CSV Analyzer](https://github.com/muhammad-wassam/csv-analyser) | Python tool to load, search, and summarize CSV data — generates statistics and exportable summary reports using only the standard library |
+| ⏱️ [Personal Time Logger](https://github.com/muhammad-wassam/Personal-logger) | Python console app for tracking and summarizing daily time spent across activities |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**BI & Productivity**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-wassam&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-wassam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  💬 Open to Data Analyst opportunities — feel free to reach out at <b>muhammadwassamofficial@gmail.com</b>
+</p>
